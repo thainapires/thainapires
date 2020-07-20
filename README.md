@@ -5,7 +5,7 @@
 <a href="https://github.com/thainapires"><img src="https://img.shields.io/github/followers/thainapires.svg?label=GitHub&style=social" alt="GitHub"></a>
 
 - 💻 **Working at** [Duki.app](https://duki.app/ "Duki.app")
-- ⚙️ **Working with:** Flask | DialogFlow | Google Cloud Plataform
+- ⚙️ **Working with:** Flask | DialogFlow | Google Cloud Plataform | MySQL
 - 🌱 **Learning:** Ruby on Rails/Deep Learning/Data Science
 - 💬 **Hobbies:** Books 📚 | Music 🎧 | Tv Shows 📺
 - 🎤 **My favorite TEDs:** [click here](https://www.youtube.com/playlist?list=PLt4Ul-oY5nhFS7Y-OVBJWiNTGDYr_C-UL "Favorite TEDs")
