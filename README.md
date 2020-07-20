@@ -8,6 +8,7 @@
 - ⚙️ **Working with:** Flask | DialogFlow | Google Cloud Plataform
 - 🌱 **Learning:** Ruby on Rails/Deep Learning/Data Science
 - 💬 **Hobbies:** Books 📚 | Music 🎧 | Tv Shows 📺
+- 🎤 **My favorite TEDs:** [https://www.youtube.com/playlist?list=PLt4Ul-oY5nhFS7Y-OVBJWiNTGDYr_C-UL](https://www.youtube.com/playlist?list=PLt4Ul-oY5nhFS7Y-OVBJWiNTGDYr_C-UL "Favorite TEDs")
 - 😄 **Pronouns:** She/her 
 
 
