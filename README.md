@@ -8,15 +8,12 @@
 - ⚙️ **Working with:** Flask | DialogFlow | Google Cloud Plataform | MySQL
 - 🌱 **Learning:** Ruby on Rails/Deep Learning/Data Science
 - 💬 **Hobbies:** Books 📚 | Music 🎧 | Tv Shows 📺
-- 🎤 **My favorite TEDs:** [click here](https://www.youtube.com/playlist?list=PLt4Ul-oY5nhFS7Y-OVBJWiNTGDYr_C-UL "Favorite TEDs")
+- 🎤 **My favorite TEDs:** [click here](https://bit.ly/3hhX9OY "Favorite TEDs")
 - 😄 **Pronouns:** She/her 
 
 
 
 - 💡 I'm currently looking for opportunities. I love to learn and contribute.
 - 💬 Ping me about: diversity & inclusion, woman in tech, design, education, branding, development
-
-
-- 🖥️ Personal website: [thainapires.digital](https://thainapires.digital/ "thainapires.digital")
 
 
