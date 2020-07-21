@@ -14,6 +14,6 @@
 
 
 - 💡 I'm currently looking for opportunities. I love to learn and contribute.
-- 💬 Ping me about: diversity & inclusion, woman in tech, design, education, branding, development
+- 💬 Ping me about: woman in tech, design, education, branding, development, diversity & inclusion
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thainapires.thainapires) <br>
