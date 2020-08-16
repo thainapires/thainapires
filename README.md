@@ -6,7 +6,7 @@
 
 - 💻 **Developing:** [Duki.app](https://duki.app/ "Duki.app")
 - ⚙️ **Working with:** Flask | DialogFlow | Google Cloud Plataform | MySQL
-- 🌱 **Learning:** Ruby on Rails/Deep Learning/Data Science
+- 🌱 **Learning:** Ruby on Rails/Data Science/Node.js/ReactJS
 - 💬 **Hobbies:** Books 📚 | Music 🎧 | Tv Shows 📺
 - 🎤 **My favorite TEDs:** [click here](https://bit.ly/3hhX9OY "Favorite TEDs")
 - 😄 **Pronouns:** She/her 
