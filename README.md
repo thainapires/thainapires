@@ -5,8 +5,8 @@
 <a href="https://github.com/thainapires"><img src="https://img.shields.io/github/followers/thainapires.svg?label=GitHub&style=social" alt="GitHub"></a>
 
 - 💻 **Developing:** [Duki.app](https://duki.app/ "Duki.app")
-- ⚙️ **Working with:** Flask | DialogFlow | Google Cloud Plataform | MySQL
-- 🌱 **Learning:** Ruby on Rails/Data Science/Node.js/ReactJS
+- ⚙️ **Working with:** Flask | DialogFlow | Google Cloud Plataform | MySQL | Jinja | CSS
+- 🌱 **Learning:** Google Cloud/Python/Node.js/ReactJS
 - 💬 **Hobbies:** Books 📚 | Music 🎧 | Tv Shows 📺
 - 🎤 **My favorite TEDs:** [click here](https://bit.ly/3hhX9OY "Favorite TEDs")
 - 😄 **Pronouns:** She/her 
