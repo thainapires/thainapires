@@ -1,3 +1,5 @@
+<img src="https://github.com/thainapires/thainapires/blob/master/octocat_th.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Octocat">
+
 <p align="left">
   Olá mundo, meu nome é Thainá. Sou apaixonada por <strong>tecnologia</strong>!<br>
   Faço Ciência da Computação no Cefet/RJ.
