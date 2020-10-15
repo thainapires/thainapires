@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-🎤 <strong>Speeches that inspire:</strong> <a href="https://bit.ly/3hhX9OY">click here</a>
+🎤 <strong>Learning:</strong> ReactJS, NodeJS, Python for Data Science 
 </p>
 
 <p align="left">
