@@ -5,10 +5,6 @@
 </p>
 
 <p align="left">
-💬 <strong>Currently looking for an internship in Rio de Janeiro.</strong>
-</p>
-
-<p align="left">
 💻 <strong>Developing:</strong> <a href="https://duki.app">duki.app</a>
 </p>
 
