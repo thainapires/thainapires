@@ -5,14 +5,6 @@
 </p>
 
 <p align="left">
-💻 <strong>Developing:</strong> <a href="https://duki.app">duki.app</a>
-</p>
-
-<p align="left">
-⚙️ <strong>Working with:</strong> Flask | DialogFlow | Google Cloud Plataform | MySQL | Jinja | HTML | CSS | JS
-</p>
-
-<p align="left">
 🎤 <strong>Learning:</strong> ReactJS, NodeJS, Python for Data Science 
 </p>
 
