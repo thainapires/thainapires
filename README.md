@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  My name is Thainá. I am passionate about <strong>technology</strong>! I'm a Computer Science Student.  
+  My name is Thainá. I am passionate about <strong>technology</strong>! I'm a Computer Science Student. I'm currently working at <a href="https://www.redeparcerias.com/">Rede Parcerias</a>
 </p>
 
 <p align="left">
