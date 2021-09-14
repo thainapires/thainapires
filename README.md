@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  My name is Thainá. I am passionate about <strong>technology</strong>! I'm a Computer Science Student. I'm currently working at <a href="https://www.redeparcerias.com/">Rede Parcerias</a>
+  My name is Thainá. I am passionate about <strong>technology</strong>! I'm a Computer Science Student. I'm currently working as a developer at <a href="https://www.redeparcerias.com/">Rede Parcerias</a>
 </p>
 
 <p align="left">
@@ -25,3 +25,5 @@
   <img src="https://img.shields.io/badge/-Wordpress-787878?style=flat&logo=Wordpress&logoColor=white">
 
 </p>
+
+![Thaina Pires GitHub stats](https://github-readme-stats.vercel.app/api?username=thainapires&show_icons=true&theme=dracula)
