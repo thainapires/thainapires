@@ -1,4 +1,4 @@
-<img src="https://github.com/thainapires/thainapires/blob/master/THAIN%C3%81%20PIRES.jpg" alt="banner">
+<img src="https://github.com/thainapires/thainapires/blob/master/banner.png" alt="banner">
 
 <p align="left">
 🎤 <strong>What am I learning right now?</strong>
