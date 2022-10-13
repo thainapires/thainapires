@@ -1,10 +1,3 @@
-</p>
-<strong>Working in:</strong>
-<p>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</p>
-
 <strong>How to reach me:</strong>
 
 [![Linkedin Badge](https://img.shields.io/badge/thainápires-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thainapires/)
