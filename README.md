@@ -1,16 +1,8 @@
-<img src="https://github.com/thainapires/thainapires/blob/master/Banner-Github.jpg" alt="banner">
+## Thainá Pires
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thainapires&theme=nord_bright)
+👩🏻‍💻 Full Stack Developer at Rede Parcerias.
 
-###### Skills_
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,nestjs,nodejs,php,py,ts,docker,vscode,ai)](https://skillicons.dev)
+I currently work with PHP, Laravel, Vue, Wordpress, Nest.js and Docker. Besides that, I have been studying React, Node.js and Laravel.
 
-###### Learning_
-[![My Skills](https://skillicons.dev/icons?i=laravel,vue,react,docker)](https://skillicons.dev)
-
-###### Socials_
-
-[![Linkedin Badge](https://img.shields.io/badge/thainápires-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thainapires/)
-[![Instagram Badge](https://img.shields.io/badge/thainapiress-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thainapiress)
-[![Gmail Badge](https://img.shields.io/badge/thainaspiress@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thainaspiress@gmail.com)
-[![Spotify Badge](https://img.shields.io/badge/Thainá-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/o7u6s65sn0zo0rpb1x8rqtzc3)
+<a href="https://instagram.com/thainaspiress"><img alt="Instagram Badge" src="https://img.shields.io/badge/-@thainaspiress-0096ff?style=flat-square&labelColor=0096ff&logo=instagram&logoColor=white&link=https://instagram.com/thainaspiress"/></a>
+<a href="https://www.linkedin.com/in/thainapires/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Thainá%20Pires-0096ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thainapires/"/></a>
