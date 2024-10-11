@@ -2,7 +2,7 @@
 
 💻 I'm a Junior Full Stack Developer at Rede Parcerias.
 
-🛠️ I’m currently working with: 
+🚀 I’m currently working with: 
 
 <div style="display: inline_block;">
   <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -14,13 +14,20 @@
   <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-  <img alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" />
 </div>
 
+🛠️ Tools:
+
+<div style="display: inline_block;">
+  <img alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  <img alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+
+<br>
 🎨 Beyond work: 
+
 I'm passionate about making art, with a particular focus on watercolor and acrylic painting techniques, and latetly I'm enjoying making collages also. I feel really inspired by Vincent Van Gogh's life and works, which I enjoy studying. In addition to my creative pursuits, I'm an avid reader and tv shows enthusiast, often immersing myself in various genres and series. My true adventure lies in traveling and biking, where I relish the opportunity to explore new cultures and broaden my global perspective.
 
 📫 Let's talk:
