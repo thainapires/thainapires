@@ -4,7 +4,7 @@
 
 🛠️ I’m currently working with: 
 
-<div style="display: inline_block">
+<div style="display: inline_block;">
   <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img alt="Laravel" height="30" width="40" src="https://laravel.com/img/logomark.min.svg" />
   <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -20,7 +20,7 @@
   <img alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" />
 </div>
 
-🎨 About me: 
+🎨 Beyond work: 
 I'm passionate about making art, with a particular focus on watercolor and acrylic painting techniques, and latetly I'm enjoying making collages also. I feel really inspired by Vincent Van Gogh's life and works, which I enjoy studying. In addition to my creative pursuits, I'm an avid reader and tv shows enthusiast, often immersing myself in various genres and series. My true adventure lies in traveling and biking, where I relish the opportunity to explore new cultures and broaden my global perspective.
 
 📫 Let's talk:
