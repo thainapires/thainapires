@@ -1,6 +1,6 @@
 ## 👋 Hello, world! My Name is Thainá Pires
 
-💻 I'm a Junior Full Stack Developer at Rede Parcerias.
+💻 I'm a Junior Full Stack Developer at Rede Parcerias @Innovation Squad.
 
 🚀 I’m currently working with: 
 
