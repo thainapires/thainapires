@@ -32,6 +32,7 @@
   <img alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img alt="Laravel" height="30" width="40" src="https://laravel.com/img/logomark.min.svg" />
   <img alt="DevOps" height="30" width="40" src="https://cdn-icons-png.flaticon.com/256/5266/5266429.png" />
+  <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 <br>
