@@ -16,6 +16,7 @@
   <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" />
   <img alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
 
 🛠️ Tools:
