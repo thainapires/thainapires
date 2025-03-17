@@ -2,7 +2,7 @@
 
 💻 I'm a Software Engineer at Rede Parcerias @Innovation Squad.
 
-🚀 I’m currently working with: 
+🚀 I’m currently working with / studying: 
 
 <div style="display: inline_block;">
   <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -17,6 +17,8 @@
   <img alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" />
   <img alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
   <img alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img alt="DevOps" height="30" width="40" src="https://cdn-icons-png.flaticon.com/256/5266/5266429.png" />
 </div>
 
 🛠️ Tools:
