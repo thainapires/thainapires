@@ -26,19 +26,10 @@
   <img alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
-👩🏻‍💻 Studying/Focusing on improving:
-
-<div style="display: inline_block;">
-  <img alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img alt="Laravel" height="30" width="40" src="https://laravel.com/img/logomark.min.svg" />
-  <img alt="DevOps" height="30" width="40" src="https://cdn-icons-png.flaticon.com/256/5266/5266429.png" />
-  <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
-
 <br>
-🎨 Beyond work: 
 
-I'm passionate about making art, with a particular focus on watercolor and acrylic painting techniques, and latetly I'm enjoying making collages also. I feel really inspired by Vincent Van Gogh's life and works, which I enjoy studying. In addition to my creative pursuits, I'm an avid reader and tv shows enthusiast, often immersing myself in various genres and series. My true adventure lies in traveling and biking, where I relish the opportunity to explore new cultures and broaden my global perspective.
+[![Thaina's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thainapires)](https://github.com/anuraghazra/github-readme-stats)
+
 
 📫 Let's talk:
 
