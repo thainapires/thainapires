@@ -31,6 +31,11 @@
 
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
+
 📫 Let's talk:
 
 <a href="https://instagram.com/thainaspiress"><img alt="Instagram Badge" src="https://img.shields.io/badge/-@thainaspiress-0096ff?style=flat-square&labelColor=0096ff&logo=instagram&logoColor=white&link=https://instagram.com/thainaspiress"/></a>
