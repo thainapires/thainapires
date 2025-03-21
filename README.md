@@ -35,6 +35,15 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript       25 hrs 57 mins  █████████████░░░░░░░░░░░░   51.60 %
+PHP              7 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+Other            7 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+Blade Template   1 hr 55 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+JavaScript       1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=thainapires)
