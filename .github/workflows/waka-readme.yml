@@ -20,7 +20,6 @@ jobs:
           TIME_RANGE: last_7_days 
           LANG_COUNT: 7 
           SHOW_TIME: true
-          STOP_AT_OTHER: true
           COMMIT_MESSAGE: updated waka-readme graph with new metrics 
           COMMITTER_NAME: thainapires
           COMMITTER_EMAIL: thainaspiress@gmail.com
