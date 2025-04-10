@@ -33,23 +33,3 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 </p>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 02 April 2025 - To: 09 April 2025
-
-Total Time: 30 hrs 34 mins
-
-PHP              11 hrs 15 mins  █████████░░░░░░░░░░░░░░░░   36.62 %
-TypeScript       9 hrs 21 mins   ███████▓░░░░░░░░░░░░░░░░░   30.42 %
-JavaScript       8 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
-Bash             54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Prisma           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-JSON             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Markdown         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-```
-
-<!--END_SECTION:waka-->
-
-![](https://komarev.com/ghpvc/?username=thainapires)
