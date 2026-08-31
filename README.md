@@ -12,9 +12,20 @@ const thaina = {
 };
 ```
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=thainapires&langs_count=6&theme=github_dark_dimmed)](https://wakatime.com/@thainapires)
-
-[![wakatime](https://wakatime.com/badge/user/845b89b7-5117-44af-8c12-c7b7999b9332.svg)](https://wakatime.com/@845b89b7-5117-44af-8c12-c7b7999b9332)
+<p align="">
+  <a href="https://github.com/thainapires">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=github_dark_dimmed"
+      alt="Top Languages"
+    />
+  </a>
+  <a href="https://wakatime.com/@thainapires">
+    <img
+      src="https://github-stats-extended.vercel.app/api/wakatime?username=thainapires&langs_count=7&theme=github_dark_dimmed"
+      alt="WakaTime Stats"
+    />
+  </a>
+</p>
 
 ## ✦ What I'm up to
 
