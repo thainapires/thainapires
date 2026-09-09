@@ -11,6 +11,7 @@ const thaina = {
   ],
 };
 ```
+[![wakatime](https://wakatime.com/badge/user/845b89b7-5117-44af-8c12-c7b7999b9332.svg)](https://wakatime.com/@845b89b7-5117-44af-8c12-c7b7999b9332)
 
 <p align="">
   <a href="https://github.com/thainapires">
