@@ -4,7 +4,7 @@
 const thaina = {
   role: "Full Stack Software Developer",
   likes: ["clean code", "good UI", "learning new things"],
-  portfolio: "thaina-pires.vercel.app",
+  portfolio: "thaipires.com",
   currentlyExploring: [
     "software architecture",
     "design systems",
@@ -12,7 +12,7 @@ const thaina = {
   ],
 };
 ```
-🔗 **Portfolio:** [thaina-pires.vercel.app](https://thaina-pires.vercel.app/)
+🔗 **Portfolio:** [thaioires.com](https://thaipires.com/)
 
 <p align="">
   <a href="https://github.com/thainapires">
