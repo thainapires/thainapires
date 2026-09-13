@@ -12,7 +12,7 @@ const thaina = {
   ],
 };
 ```
-🔗 **Portfolio:** [thaioires.com](https://thaipires.com/)
+🔗 **Portfolio:** [thaipires.com](https://thaipires.com/)
 
 <p align="">
   <a href="https://github.com/thainapires">
