@@ -82,3 +82,5 @@ Tools and technologies I've worked with & concepts I used before or enjoy using 
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 </p>
+
+![](https://hit.yhype.me/github/profile?account_id=28638008)
